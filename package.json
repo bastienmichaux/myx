@@ -1,0 +1,25 @@
+{
+  "name": "myx",
+  "version": "0.0.0",
+  "description": "Random JS utility stuff",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^4.18.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
+  },
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bastienmichaux/myx.git"
+  },
+  "author": "Bastien Michaux",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bastienmichaux/myx/issues"
+  },
+  "homepage": "https://github.com/bastienmichaux/myx#readme"
+}
